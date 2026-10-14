@@ -17,7 +17,7 @@
 Completed a hands-on digital forensics and incident response exercise on a compromised Windows Server 2016 machine. Investigated malicious scheduled tasks, suspicious user accounts, registry persistence, network connections, and attacker tools (mimikatz, nc.ps1, badr malware) to trace the attacker's activity.
 
 ## Evidence / Screenshots
-- [Room Completed](screenshots/Complete1.png)
+- [Room Completed](screenshots/Complete2.png)
 - [FedUni Email Verification](screenshots/PersonalInformation.png)
 - [Windows Version](screenshots/1.png)
 - [User Logons](screenshots/3.png)
