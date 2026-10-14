@@ -27,4 +27,4 @@ Completed a hands-on digital forensics and incident response exercise on a compr
 - [Webshell](screenshots/12.png)
 
 ## Reflection
-This exercise gave me hands-on experience with Windows digital forensics and incident response. I learned how attackers maintain persistence through scheduled tasks and registry keys, how to trace their activity through logs and artefacts, and how tools like mimikatz are used to extract credentials. This directly connects to the NIST CSF 2.0 and incident response concepts from ITECH1502.
+This exercise allowed me to personally experience Windows digital forensics and incident response. I learned how attackers maintain persistence through scheduled tasks and registry key values, how to track their activities through logs and evidence, and how to extract credentials using tools like mimikatz. This is directly related to the NIST CSF 2.0 standard and the incident response concepts in the ITECH1502 course.
