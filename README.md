@@ -22,9 +22,9 @@ Completed a hands-on digital forensics and incident response exercise on a compr
 - [Windows Version](screenshots/1.png)
 - [User Logons](screenshots/3.png)
 - [Scheduled Task](screenshots/6.png)
-- [Attacker Tools](screenshots/工具截图.png)
-- [C2 & DNS Poisoning](screenshots/hosts截图.png)
-- [Webshell](screenshots/webshell截图.png)
+- [Attacker Tools](screenshots/10.png)
+- [C2 & DNS Poisoning](screenshots/10.png)
+- [Webshell](screenshots/12.png)
 
 ## Reflection
 This exercise gave me hands-on experience with Windows digital forensics and incident response. I learned how attackers maintain persistence through scheduled tasks and registry keys, how to trace their activity through logs and artefacts, and how tools like mimikatz are used to extract credentials. This directly connects to the NIST CSF 2.0 and incident response concepts from ITECH1502.
